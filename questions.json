@@ -1,0 +1,272 @@
+{
+  "heading": "G6_Polyhedron, Pyramid, Prisms",
+  "topics": [
+    {
+      "heading": "Polyhedron, Pyramid, Prisms",
+      "questions": [
+
+  
+  {
+    "questionNo": 1,
+    "question": [
+      "A solid geometric object is defined by possessing three distinct physical dimensions that allow it to take up space. Which of the following sets correctly lists these three dimensions?"
+    ],
+    "options": [
+      "Radius, circumference, and area",
+      "Area, volume, and perimeter",
+      "Length, width, and depth",
+      "Height, base, and weight"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "When building or evaluating solid structures, we must measure them in three independent directions. Which set of measurements accurately describes the three dimensions of a solid wooden structure?"
+    ],
+    "options": [
+      "Length, width, and height",
+      "Area, volume, and surface",
+      "Base, radius, and diameter",
+      "Width, length, and perimeter"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "A solid physical object, such as a carved wooden block or a plastic ball, is measured in exactly ______ dimensions.",
+      "  "
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "3"
+    ]
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "A flat geographical map printed on a piece of paper has 2 dimensions. When that map is wrapped around a solid physical globe, it gains depth, meaning the globe has exactly ______ dimensions.",
+      "  "
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "3"
+    ]
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Is the following geometric figure a polyhedron?"
+    ],
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/2.png"
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "Is the following geometric figure a polyhedron?",
+      "<br>(A three-dimensional solid with a flat circular top, a flat circular bottom, and a continuous curved side connecting them)"
+    ],
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/3.png"
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "A standard prism is a solid packaging shape that features exactly ______ bases that are parallel and perfectly identical polygons.",
+      "  "
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "2"
+    ]
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "A pyramid is a solid architectural shape that stands upon exactly ______ polygonal base, with all its side faces meeting at a single top vertex.",
+      "  "
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "1"
+    ]
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "A prism is a solid shape with two identical polygon bases that sit perfectly parallel to each other. These bases are securely connected by flat faces.",
+      "<br>What shape are these connecting faces in a standard prism?"
+    ],
+    "options": [
+      "Triangles",
+      "Rectangles",
+      "Circles",
+      "Hexagons"
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/4.png"
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "Consider a solid plastic shape that has two identical pentagonal bases at opposite ends. If this shape is classified as a prism, what polygon forms the faces connecting the two pentagonal bases?"
+    ],
+    "options": [
+      "Triangles",
+      "Pentagons",
+      "Rectangles",
+      "Squares"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "<br>What is the proper name of this 3D shape?"
+    ],
+    "options": [
+      "Hexagonal prism",
+      "Pentagonal pyramid",
+      "Rectangular prism",
+      "Pentagonal prism"
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/5.png"
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "A 3D solid features two parallel bases that are rectangles, and these bases are connected by four other rectangular faces.",
+      "<br>Based on the shape of its bases, what is this solid called?"
+    ],
+    "options": [
+      "Rectangular prism",
+      "Square pyramid",
+      "Triangular prism",
+      "Rectangular pyramid"
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/6.png"
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "A pyramid is a three-dimensional solid with a single polygonal base on the bottom. All the straight edges of this base attach to a singular vertex floating at the top. What shape are the side faces that connect the base to the vertex?"
+    ],
+    "options": [
+      "Triangles",
+      "Rectangles",
+      "Squares",
+      "Circles"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "Consider a solid glass figure that rests flat on a single polygon base. The flat glass faces rising from the outer edges of this base all meet precisely at one common vertex at the very top. These rising glass faces are triangles.",
+      "<br>What general mathematical classification does this shape belong to?"
+    ],
+    "options": [
+      "Cylinder",
+      "Pyramid",
+      "Prism",
+      "Sphere"
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/7.png"
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "The geometric shape of the bottom base gives a pyramid its specific naming classification. If a pyramid has a base with exactly five straight sides, what is it called?"
+    ],
+    "options": [
+      "Pentagonal prism",
+      "Hexagonal pyramid",
+      "Pentagonal pyramid",
+      "Square pyramid"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 16,
+    "question": [
+      "A 3D shape has a single base that is a hexagon (a six-sided polygon), and six triangular faces that rise and meet at a single point at the top.",
+      "<br>What is the correct name for this geometric shape?"
+    ],
+    "options": [
+      "Hexagonal prism",
+      "Hexagonal pyramid",
+      "Pentagonal pyramid",
+      "Octagonal pyramid"
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/8.png"
+  },
+  {
+    "questionNo": 17,
+    "question": [
+      "I am a solid shape. I do not possess any curved surfaces at all. I have exactly two identical ends that are six-sided polygons. All my other faces are flat rectangles. What shape am I?"
+    ],
+    "options": [
+      "Hexagonal pyramid",
+      "Hexagonal prism",
+      "Octagonal prism",
+      "Rectangular prism"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 18,
+    "question": [
+      "I am a solid geometric figure. Every single one of my flat side faces is a triangle. I have exactly one flat base which is a ten-sided polygon, and all my triangles rise to meet at a single sharp point at the top. What shape am I?"
+    ],
+    "options": [
+      "Decagonal pyramid",
+      "Decagonal prism",
+      "Octagonal pyramid",
+      "Triangular pyramid"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 19,
+    "question": [
+      "Look at the diagram of the specific bases of two different 3D shapes below.",
+      "<br>If Shape A is known to be a pyramid and Shape B is known to be a prism, which of the following statements is mathematically true?"
+    ],
+    "options": [
+      "Shape A is a pentagonal pyramid and Shape B is an octagonal prism.",
+      "Shape A is a pentagonal prism and Shape B is an octagonal pyramid.",
+      "Shape A is a hexagonal pyramid and Shape B is a decagonal prism.",
+      "Shape A is a square pyramid and Shape B is a hexagonal prism."
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/9.png"
+  }
+
+
+
+      ]
+    }
+  ]
+}
